@@ -1,5 +1,5 @@
 # Healthcare-Financial-Provider-Performance-Analysis
-This project focuses on analyzing a healthcare dataset to evaluate both the financial performance of a healthcare center and the efficiency of its healthcare providers. The goal is to uncover key insights, identify trends, and present the findings through an interactive Power BI dashboard.
+This project focuses on analyzing a healthcare dataset to evaluate both the financial performance of a healthcare center and the efficiency of its healthcare providers. The goal is to uncover key insights, identify trends, and present the findings through an interactive Power BI dashboard. [INTERACT WITH DASHBOARD HERE](https://app.powerbi.com/view?r=eyJrIjoiZTdjMTQ1OTAtYzFkOS00NmExLWFkMjgtMmFjMjlmNzMyMjViIiwidCI6ImY3YzlkOWJhLTMzZDMtNGE4NC1hYTE5LWExNTc5YjcwNDhkNSJ9)
 
 # Project Objectives
 
